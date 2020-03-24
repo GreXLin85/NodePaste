@@ -1,0 +1,2 @@
+# NodePaste
+Text Pasting Script
